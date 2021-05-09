@@ -1,0 +1,23 @@
+body {
+	font-family: sans-serif;
+}
+
+.welcome-message {
+	text-align: center;
+}
+
+.secret {
+	margin: auto;
+	width: 50%;
+	text-align: center;
+}
+
+.secret a {
+	color: white;	
+}
+
+.pudim {
+	margin: 36px 0px 0px 0px;
+	height: 50%;
+	text-align: center;
+}
